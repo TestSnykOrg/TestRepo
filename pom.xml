@@ -23,7 +23,7 @@
 		      <groupId>org.apache.calcite</groupId>	
 		      <artifactId>calcite-core</artifactId>	
 		      <type>jar</type>	
-		      <version>1.11.0</version>	
+		      <version>1.22.0</version>	
 		</dependency>
 		<dependency>
 			<groupId>com.salesforce.sconems</groupId>
